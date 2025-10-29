@@ -11,5 +11,5 @@ Welcome to ByteBloomCode’s first team repository! This project is part of our 
 - Topics include: data types, input/output, conditionals, loops, functions, lambda expressions, and more.
 - There’s no fixed schedule—upload whenever you’re ready.
 
-## 🗂️ Folder Structure
+
 

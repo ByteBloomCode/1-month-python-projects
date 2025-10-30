@@ -1,0 +1,20 @@
+number1=float(input("İlk sayiyi giriniz:"))
+number2=float(input("İkinci sayiyi giriniz:"))
+
+print("1 - Toplama")
+print("2 - Çikarma")
+print("3 - Çarpma")
+print("4 - Bölme")
+
+secim=input("Lütfen , bir islem seciniz(1/2/3/4):")
+
+if secim  == "1":
+    print(number1+number2)
+elif secim == "2":
+    print(number1-number2)
+elif secim == "3":
+    print(number1*number2)
+elif secim == "4":
+    print(number1/number2)
+else :
+    input("Lütfen , sadece  1 , 2 , 3  veya  4 giriniz.")

@@ -1,4 +1,4 @@
-#Deneme hakkıı aşılınca erişim engeli getiren versiyon
+#Deneme hakkı aşılınca erişim engeli getiren versiyon
 #koşullar , döngüler , sayaç(+=) , input/output
 sifre="abc123"
 deneme_hakki=3
@@ -13,4 +13,5 @@ while deneme_sayisi<deneme_hakki:
         kalan_hak=deneme_hakki-deneme_sayisi
         print("Şifre yanlış," ,kalan_hak , "hakkınız kaldı.")
 if deneme_sayisi==deneme_hakki:
+
     print("Çok fazla yanlış deneme yaptınız. Erişiminiz engellendi.")
